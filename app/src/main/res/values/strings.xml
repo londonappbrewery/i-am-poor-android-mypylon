@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">No one is truly poor, until they give up.</string>
+    <string name="title">I am never poor.</string>
+    <string name="footer">I will turn coal into a diamond.</string>
 </resources>
